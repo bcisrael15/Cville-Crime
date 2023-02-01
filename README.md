@@ -1,1 +1,1 @@
-Machine Learning project for University of Virginia CS 4774 with Professor Nguyen. Part of the ML4VA project, my partner and I processed a public dataset from Charlottesville Police Department to predict the hour at which a crime would occur given location, crime type, and date. 
+Machine Learning project for University of Virginia CS 4774 with Professor Nguyen. Part of the ML4VA project, my partner and I processed a public dataset from Charlottesville Police Department to predict the hour at which a crime would be most likely to occur given location, crime type, and date. 
